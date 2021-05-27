@@ -1,0 +1,8 @@
+# PyCharm Files and Folders
+###########################
+
+.idea/
+Include/
+Lib/
+Scripts/
+*.cfg
