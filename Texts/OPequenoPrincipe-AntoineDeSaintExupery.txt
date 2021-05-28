@@ -1,27 +1,3 @@
-Sobre a digitalização desta obra:
-Esta obra foi digitalizada para proporcionar de maneira totalmente gratuita o benefício de sua leitura àqueles que não
-podem comprá-la ou àqueles que necessitam de meios eletrônicos para leitura. Dessa forma, a venda deste e-book ou
-mesmo a sua troca por qualquer contraprestação é totalmente condenável em qualquer circunstância.
-A generosidade é a marca da distribuição, portanto:
-Distribua este livro livremente!
-Se você tirar algum proveito desta obra, considere seriamente a possibilidade de adquirir o original.
-Incentive o autor e a publicação de novas obras!
-By Yuna
-Visite nossa biblioteca! Centenas de obras grátis a um clique!
-http://www.portaldetonando.com.br
-
-A LÉON WERTH
-Peço perdão às crianças por dedicar este livro a uma pessoa grande. Tenho uma
-desculpa séria: essa pessoa grande é o melhor amigo que possuo no mundo. Tenho uma
-outra desculpa: essa pessoa grande é capaz de compreender todas as coisas, até mesmo os
-livros de criança. Tenho ainda uma terceira: essa pessoa grande mora na França, e ela tem
-fome e frio.
-Ela precisa de consolo. Se todas essas desculpas não bastam, eu dedico então esse
-livro à criança que essa pessoa grande já foi. Todas as pessoas grandes foram um dia
-crianças (mas poucas se lembram disso). Corrijo, portanto, a dedicatória:
-A LÉON WERTH
-QUANDO ELE ERA PEQUENINO
-
 I
 Certa vez, quando tinha seis anos, vi num livro sobre a Floresta Virgem, "Histórias
 Vividas", uma imponente gravura. Representava ela uma jibóia que engolia uma fera. Eis
@@ -32,7 +8,7 @@ podem mover-se e dormem os seis meses da digestão."
 Refleti muito então sobre as aventuras da selva, e fiz, com lápis de cor, o meu
 primeiro desenho. Meu desenho número 1 era assim:
 
-Mostrei minha obra-prima às pessoas grandes e perguntei se o meu desenho lhes
+Mostrei minha obra-prima às pessoas grandes e perguntei se o meu desenho lhes
 fazia medo.
 Responderam-me: "Por que é que um chapéu faria medo?"
 Meu desenho não representava um chapéu. Representava uma jibóia digerindo um
@@ -75,7 +51,7 @@ estranha me acordou. Dizia:
 - Desenha-me um carneiro ...
 Pus-me de pé, como atingido por um raio. Esfreguei os olhos. Olhei bem. E vi um
 
-pedacinho de gente inteiramente extraordinário, que me considerava com gravidade.
+pedacinho de gente inteiramente extraordinário, que me considerava com gravidade.
 Eis o melhor retrato que, mais tarde, consegui fazer dele.
 
 Meu desenho é, seguramente, muito menos sedutor que o modelo. Não tenho
@@ -102,7 +78,7 @@ desenhos que sabia. O da jibóia fechada. E fiquei estupefato de ouvir o garoto 
 toma muito espaço. Tudo é pequeno onde eu moro. Preciso é dum carneiro. Desenha-me
 um carneiro.
 
-Então eu desenhei.
+Então eu desenhei.
 
 Olhou atentamente, e disse:
 - Não! Esse já está muito doente.
@@ -125,7 +101,7 @@ Mas fiquei surpreso de ver iluminar-se a face do meu pequeno juiz:
 Por quê?
 Porque é muito pequeno onde eu moro ...
 
-- Qualquer coisa chega. Eu te dei um carneirinho de nada !
+- Qualquer coisa chega. Eu te dei um carneirinho de nada !
 Inclinou a cabeça sobre o desenho:
 - Não é tão pequeno assim ... Olha ! Adormeceu ...
 E foi desse modo que eu travei conhecimento, um dia, com o pequeno príncipe.
@@ -158,7 +134,7 @@ outros planetas". Esforcei-me, então, por saber mais um pouco.
 Ficou meditando em silêncio, e respondeu depois:
 O bom é que a caixa que me deste poderá, de noite, servir de casa.
 
-- Sem dúvida. E se tu fores bonzinho, darei também uma corda para amarrá-lo
+- Sem dúvida. E se tu fores bonzinho, darei também uma corda para amarrá-lo
 durante o dia. E uma estaca.
 A proposta pareceu chocá-lo:
 Amarrar? Que idéia esquisita
@@ -181,7 +157,7 @@ tão pequenos que mal se vêem no telescópio.
 Quando o astrônomo descobre um deles, dá-lhe por nome um número.
 Chama-o, por exemplo: "asteróide 3251".
 
-Tenho sérias razões para supor que o planeta de onde vinha o príncipe era o
+Tenho sérias razões para supor que o planeta de onde vinha o príncipe era o
 asteróide B 612. Esse asteróide só foi visto uma vez ao telescópio, em 1909, por um
 astrônomo turco.
 
@@ -202,7 +178,7 @@ perguntam:
 Quanto ganha seu pai?" Somente então é que elas julgam conhecê-lo. Se dizemos
 às pessoas grandes: "Vi uma bela casa de tijolos cor-de-rosa, gerânios na janela, pombas
 
-no telhado. . . " elas não conseguem, de modo nenhum, fazer uma idéia da casa. É preciso
+no telhado. . . " elas não conseguem, de modo nenhum, fazer uma idéia da casa. É preciso
 dizer-lhes: "Vi uma casa de seiscentos contos". Então elas exclamam: "Que beleza!"
 Assim, se a gente lhes disser: "A prova de que o principezinho existia é que ele era
 encantador, que ele ria, e que ele queria um carneiro. Quando alguém quer um carneiro, é
@@ -249,7 +225,7 @@ como igrejas. E que mesmo que ele levasse consigo todo um rebanho de elefantes, 
 não chegariam a dar cabo de um único baobá.
 A idéia de um rebanho de elefantes fez rir ao principezinho:
 
-- Seria preciso votar um por cima do outro ...
+- Seria preciso votar um por cima do outro ...
 
 Mas notou, em seguida, sabiamente:
 - Os baobás, antes de crescer, são pequenos.
@@ -268,7 +244,7 @@ Ora, havia sementes terríveis no planeta do principezinho: as sementes de baob�
 O solo do planeta estava infestado. E um baobá, se a gente custa a descobri-lo, nunca
 mais se livra dele. Atravanca todo o planeta. Perfura-o com suas raízes.
 
-E se o planeta é pequeno e os baobás numerosos, o planeta acaba rachando.
+E se o planeta é pequeno e os baobás numerosos, o planeta acaba rachando.
 "É uma questão de disciplina, me disse mais tarde o principezinho. Quando a gente
 acaba a toalete da manhã, começa a fazer com cuidado a toalete do planeta. É preciso que
 a gente se conforme em arrancar regularmente os baobás logo que se distinguam das
@@ -296,7 +272,7 @@ Assim eu comecei a compreender, pouco a pouco, meu pequeno principezinho, a
 tua vidinha melancólica. Muito tempo não tiveste outra distração que a doçura do pôr-dosol. Aprendi esse novo detalhe quando me disseste, na manhã do quarto dia:
 - Gosto muito de pôr-do-sol. Vamos ver um ...
 
-- Mas é preciso esperar.
+- Mas é preciso esperar.
 - Esperar o quê?
 - Esperar que o sol se ponha.
 Tu fizeste um ar de surpresa, e, logo depois, riste de ti mesmo. Disseste-me:
@@ -325,7 +301,7 @@ Então. . . para que servem os espinhos?
 Eu não sabia. Estava ocupadíssimo naquele instante, tentando desatarraxar do
 motor um parafuso muito apertado. Minha pane começava a parecer demasiado grave, e
 
-em breve já não teria água para beber. . .
+em breve já não teria água para beber. . .
 
 - Para que servem os espinhos?
 O principezinho jamais renunciava a uma pergunta, depois que a tivesse feito. Mas
@@ -359,7 +335,7 @@ O principezinho estava agora pálido de cólera.
 - Há milhões e milhões de anos que as flores fabricam espinhos. Há milhões e
 milhões de anos que os carneiros as comem, apesar de tudo. E não será sério procurar
 
-compreender por que perdem tanto tempo fabricando espinhos inúteis? Não terá
+compreender por que perdem tanto tempo fabricando espinhos inúteis? Não terá
 importância a guerra dos carneiros e das flores? Não será mais importante que as contas
 do tal sujeito? E se eu, por minha vez, conheço uma flor única no mundo, que só existe no
 meu planeta, e que um belo dia um carneirinho pode liquidar num só golpe, sem avaliar o
@@ -390,7 +366,7 @@ preparar sua beleza, no seu verde quarto.
 Escolhia as cores com cuidado. Vestia-se lentamente, ajustava uma a uma suas
 pétalas. Não queria sair, como os cravos, amarrotada. No radioso esplendor da sua beleza
 
-é que ela queria aparecer. Ah ! sim. Era vaidosa. Sua misteriosa toalete, portanto, durara
+é que ela queria aparecer. Ah ! sim. Era vaidosa. Sua misteriosa toalete, portanto, durara
 dias e dias. E eis que uma bela manhã, justamente à hora do sol nascer, havia-se, afinal,
 mostrado.
 
@@ -410,7 +386,7 @@ dos seus quatro espinhos, dissera ao pequeno príncipe:
 - Não há tigres no meu planeta, objetara o principezinho. E depois, os tigres não
 comem erva.
 
-Não sou uma erva, respondera a flor suavemente.
+Não sou uma erva, respondera a flor suavemente.
 Perdoa-me ...
 Não tenho receio dos tigres, mas tenho horror das correntes de ar. Não terias acaso
 um pára-vento?
@@ -435,7 +411,7 @@ flores. Basta olhá-las, aspirar o perfume. A minha embalsamava o planeta, mas e
 contentava com isso. A tal história das garras, que tanto me agastara, me devia ter
 enternecido.
 
-Confessou-me ainda:
+Confessou-me ainda:
 "Não soube compreender coisa alguma! Devia tê-la julgado pelos atos, não pelas
 palavras. Ela me perfumava, me iluminava ... Não devia jamais ter fugido. Deveria ter-lhe
 adivinhado a ternura sob os seus pobres ardis. São tão contraditórias as flores ! Mas eu
@@ -466,7 +442,7 @@ Trata de ser feliz.
 A ausência de censuras o surpreendeu. Ficou parado, inteiramente sem jeito, com a
 redoma no ar. Não podia compreender essa calma doçura.
 
-- É claro que eu te amo, disse-lhe a flor. Foi por minha culpa que não soubeste de
+- É claro que eu te amo, disse-lhe a flor. Foi por minha culpa que não soubeste de
 nada. Isso não tem importância. Foste tão tolo quanto eu. Trata de ser feliz. . .
 Mas pode deixar em paz a redoma. Não preciso mais dela.
 - Mas o vento ...
@@ -481,7 +457,7 @@ Em seguida acrescentou:
 - Não demores assim, que é exasperante. Tu decidiste partir. Vai-te embora!
 Pois ela não queria que ele a visse chorar. Era uma flor muito orgulhosa ...
 
-X
+X
 Ele se achava na região dos asteróides 325, 326, 327, 328, 329, 330. Começou,
 pois, a visitá-los,para procurar uma ocupação e se instruir.
 O primeiro era habitado por um rei. O rei sentava-se, vestido de púrpura e
@@ -513,7 +489,7 @@ o general não me obedecesse, a culpa não seria do general, seria minha."
 - Posso sentar-me? interrogou timidamente o principezinho.
 - Eu te ordeno que te sentes, respondeu-lhe o rei, que puxou majestosamente um
 
-pedaço do manto de arminho.
+pedaço do manto de arminho.
 Mas o principezinho se espantava. O planeta era minúsculo. Sobre quem reinaria o
 rei?
 - Majestade... eu vos peço perdão de ousar interrogar-vos...
@@ -563,7 +539,7 @@ eu te faço ministro
 - Mas não há ninguém a julgar!
 - Quem sabe? disse o rei. Ainda não dei a volta no meu reino. Estou muito velho,
 
-não tenho lugar para carruagem, e andar cansa-me muito.
+não tenho lugar para carruagem, e andar cansa-me muito.
 - Oh! Mas eu já vi, disse o príncipe que se inclinou para dar ainda uma olhadela do
 outro lado do planeta. Não consigo ver ninguém ...
 - Tu julgarás a ti mesmo, respondeu-lhe o rei. É o mais difícil. É bem mais difícil
@@ -603,7 +579,7 @@ Infelizmente não passa ninguém por aqui.
 O principezinho bateu as mãos uma na outra. O vaidoso agradeceu modestamente,
 erguendo o chapéu.
 
-- Ah, isso é mais divertido que a visita ao rei, disse consigo mesmo o
+- Ah, isso é mais divertido que a visita ao rei, disse consigo mesmo o
 principezinho. E recomeçou a bater as mãos uma na outra.
 O vaidoso recomeçou a agradecer, tirando o chapéu.
 Após cinco minutos de exercício, o principezinho cansou-se com a monotonia do
@@ -622,7 +598,7 @@ E o principezinho foi-se embora.
 As pessoas grandes são decididamente muito bizarras, ia pensando ele pela viagem
 afora.
 
-XII
+XII
 O planeta seguinte era habitado por um bêbado. Esta visita foi muito curta, mas
 mergulhou o principezinho numa profunda melancolia.
 
@@ -640,7 +616,7 @@ E o principezinho foi-se embora, perplexo.
 As pessoas grandes são decididamente muito bizarras, dizia de si para si, durante a
 viagem.
 
-XIII
+XIII
 O quarto planeta era o do homem de negócios. Estava tão ocupado que não
 levantou sequer a cabeça à chegada do príncipe.
 
@@ -676,7 +652,7 @@ Eu sou um sujeito sério. Gosto de exatidão.
 - E que fazes tu dessas estrelas?
 - Que faço delas?
 
-- Sim.
+- Sim.
 - Nada. Eu as possuo.
 - Tu possuis as estrelas?
 - Sim.
@@ -721,7 +697,7 @@ principezinho se foi ...
 As pessoas grandes são mesmo extraordinárias, repetia simplesmente no percurso
 da viagem.
 
-XIV
+XIV
 O quinto planeta era muito curioso. Era o menor de todos. Mal dava para um
 lampião e o acendedor de lampiões ...
 
@@ -753,7 +729,7 @@ acendia à noite. Tinha o resto do dia para descansar e o resto da noite para do
 de ano em ano gira mais depressa, e o regulamento não muda!
 - E então? disse o principezinho
 
-- Agora, que ele dá uma volta por minuto, não tenho mais um segundo de repouso.
+- Agora, que ele dá uma volta por minuto, não tenho mais um segundo de repouso.
 Acendo e apago uma vez por minuto !
 - Ah! que engraçado! Os dias aqui duram um minuto!
 Não é nada engraçado, disse o acendedor. Já faz um mês que estamos
@@ -787,7 +763,7 @@ Mas seu planeta é mesmo pequeno demais. Não há lugar para dois ...
 O que o principezinho não ousava confessar é que os mil quatrocentos e quarenta
 pores-do-sol em vinte e quatro horas davam-lhe certa saudade do abençoado planeta!
 
-XV
+XV
 O sexto planeta era dez vezes maior - Era habitado por um velho que escrevia
 livros enormes.
 
@@ -823,7 +799,7 @@ geografia. Como o explorador que bebesse demais.
 - Por quê? perguntou o principezinho.
 - Porque os bêbados vêem dobrado. Então o geógrafo anotaria duas montanhas
 
-onde há uma só.
+onde há uma só.
 - Conheço alguém, disse o principezinho, que seria um mau explorador.
 - É possível. Pois bem, quando a moralidade do explorador parece boa, faz-se uma
 investigação sobre a sua descoberta.
@@ -863,7 +839,7 @@ Foi seu primeiro movimento de remorso. Mas retomou coragem:
 - O planeta Terra, respondeu-lhe o geógrafo. Goza de grande reputação ...
 E o principezinho se foi, pensando na flor.
 
-XVI
+XVI
 O sétimo planeta foi pois a Terra.
 
 A Terra não é um planeta qualquer! Contam-se lá cento e onze reis (não
@@ -886,7 +862,7 @@ espetáculo grandioso.
 Apenas dois, o acendedor do único lampião do Polo Norte e o seu colega do único
 lampião do Polo Sul, levavam vida ociosa e descuidada: trabalhavam duas vezes por ano.
 
-XVII
+XVII
 Quando a gente quer fazer graça, mente às vezes um pouco. Não fui lá muito
 honesto ao lhes falar dos acendedores de lampiões. Corro o risco de dar, àqueles que não
 conhecem o nosso planeta, uma falsa idéia dele. Os homens ocupam, na verdade, muito
@@ -918,7 +894,7 @@ longe !
 - Ah! exclamou a serpente.
 E se calaram.
 
-- Onde estão os homens? repetiu enfim o principezínho. A gente está um pouco só
+- Onde estão os homens? repetiu enfim o principezínho. A gente está um pouco só
 no deserto.
 - Entre os homens também, disse a serpente.
 O principezinho olhou-a longamente.
@@ -939,7 +915,7 @@ por enigmas?
 Eu os resolvo todos, disse a serpente.
 E calaram-se os dois.
 
-XVIII
+XVIII
 O principezinho atravessou o deserto e encontrou apenas uma flor. Uma flor de
 três pétalas, uma florzinha a toa...
 
@@ -953,7 +929,7 @@ O vento os leva. Eles não tem raízes. Eles não gostam das raízes.
 - Adeus, disse o principezinho.
 - Adeus, disse a flor.
 
-XIX
+XIX
 O principezinho escalou uma grande montanha. As únicas montanhas que
 conhecera eram os três vulcões que lhe davam pelo joelho. O vulcão extinto servia-lhe de
 tamborete. "De montanha tão alta, pensava ele, verei todo o planeta e todos os homens.
@@ -970,7 +946,7 @@ Este planeta é todo seco, pontudo e salgado.
 homens não têm imaginação. Repetem o que a gente diz ... No meu planeta eu tinha uma
 flor: -e era sempre ela que falava primeiro."
 
-XX
+XX
 Mas aconteceu que o principezinho, tendo andado muito tempo pelas areias, pelas
 rochas e pela neve, descobriu, enfim, uma estrada. E as estradas vão todas na direção dos
 homens.
@@ -992,7 +968,7 @@ rosa comum que eu possuo. Uma rosa e três vulcões que me dão pelo joelho, um 
 quais extinto para sempre. Isso não faz de mim um príncipe muito grande. . ." E, deitado
 na relva, ele chorou.
 
-XXI
+XXI
 E foi então que apareceu a raposa:
 - Bom dia, disse a raposa.
 - Bom dia, respondeu polidamente o principezinho, que se voltou, mas não viu
@@ -1030,7 +1006,7 @@ A raposa pareceu intrigada:
 - Também não.
 - Nada é perfeito, suspirou a raposa.
 
-Mas a raposa voltou à sua idéia.
+Mas a raposa voltou à sua idéia.
 - Minha vida é monótona. Eu caço as galinhas e os homens me caçam. Todas as
 galinhas se parecem e todos os homens se parecem também. E por isso eu me aborreço
 um pouco. Mas se tu me cativas, minha vida será como que cheia de sol. Conhecerei um
@@ -1068,7 +1044,7 @@ exemplo, possuem um rito. Dançam na quinta-feira com as moças da aldeia. A qui
 Vou passear até a vinha. Se os caçadores dançassem qualquer dia, os dias seriam
 todos iguais, e eu não teria férias !
 
-Assim o principezinho cativou a raposa. Mas, quando chegou a hora da partida, a
+Assim o principezinho cativou a raposa. Mas, quando chegou a hora da partida, a
 raposa disse:
 - Ah ! Eu vou chorar.
 - A culpa é tua, disse o principezinho, eu não te queria fazer mal; mas tu quiseste
@@ -1107,7 +1083,7 @@ pela rosa...
 - Eu sou responsável pela minha rosa... repetiu o principezinho, a fim de se
 lembrar.
 
-XXII
+XXII
 - Bom dia, disse o principezinho.
 - Bom dia, respondeu o guarda-chaves.
 - Que fazes aqui? perguntou-lhe o principezinho.
@@ -1131,7 +1107,7 @@ uma boneca de pano, e a boneca se torna muito importante, e choram quando a gent
 toma ...
 - Elas são felizes ... disse o guarda-chaves.
 
-XXIII
+XXIII
 - Bom dia, disse o principezinho.
 - Bom dia, disse o vendedor.
 Era um vendedor de pílulas aperfeiçoadas que aplacavam a sede. Toma-se uma por
@@ -1161,7 +1137,7 @@ de ter tido a raposa por amiga...
 basta.
 Mas ele me olhou e respondeu ao que eu pensava:
 
-- Tenho sede também ... procuremos um POÇO ...
+- Tenho sede também ... procuremos um POÇO ...
 - Eu fiz um gesto de desanimo: é absurdo procurar um poço ao acaso, na
 imensidão do deserto. No entanto, pusemo-nos a caminho.
 Já tínhamos andado horas em silêncio quando a noite caiu e as estrelas começaram
@@ -1202,7 +1178,7 @@ pressentia então mais frágil ainda.
 É preciso proteger as lâmpadas com cuidado: um sopro as pode apagar...
 E, caminhando assim, eu descobri o poço. O dia estava raiando.
 
-XXV
+XXV
 - Os homens, disse o principezinho, se enfurnam nos rápidos, mas não sabem o que
 procuram. Então eles se agitam, ficam rodando à toa ...
 E acrescentou:
@@ -1236,7 +1212,7 @@ pouquinho d'água ...
 - É verdade.
 E o principezinho acrescentou:
 
-- Mas os olhos são cegos. É preciso buscar com o coração ...
+- Mas os olhos são cegos. É preciso buscar com o coração ...
 Eu havia bebido. Respirava facilmente. A areia é cor de mel quando amanhece. E a
 cor de mel me fazia feliz.
 Por que haveria eu de estar triste? ...
@@ -1277,7 +1253,7 @@ amanhã de tarde. . .
 Mas eu não estava tranqüilo. Lembrava-me da raposa.
 A gente corre o risco de chorar um pouco quando se deixou cativar...
 
-XXVI
+XXVI
 Havia, ao lado do poço, a ruína de um velho muro de
 pedra. Quando voltei do trabalho, no dia seguinte, vi, de longe, o principezinho
 sentado no alto, com as pernas balançando. E eu o escutei dizer:
@@ -1313,7 +1289,7 @@ Eu vinha justamente anunciar-lhe que, contra toda expectativa, havia realizado o
 conserto !
 Nada respondeu à minha pergunta, mas acrescentou:
 
-- Eu também volto hoje para casa...
+- Eu também volto hoje para casa...
 Depois, com melancolia, ele disse:
 - É bem mais longe ... bem mais difícil...
 Eu percebia claramente que algo de extraordinário se passava. Apertava-o nos
@@ -1363,7 +1339,7 @@ Mas todas essas estrelas se calam. Tu, porém, terás estrelas como ninguém...
 estarei rindo, então será como se todas as estrelas te rissem ! E tu terás estrelas que sabem
 rir!
 
-E ele riu mais uma vez.
+E ele riu mais uma vez.
 - E quando te houveres consolado (a gente sempre se consola), tu te sentirás
 contente por me teres conhecido.
 Tu serás sempre meu amigo. Terás vontade de rir comigo.
@@ -1412,7 +1388,7 @@ ingênua! Tem quatro espinhos de nada para defende-la do mundo ...
 Eu sentei-me também, pois não podia mais ficar de pé.
 Ele disse:
 
-- Pronto ... Acabou-se ...
+- Pronto ... Acabou-se ...
 Hesitou ainda um pouco, depois ergueu-se. Deu um passo. Eu ... eu não podia
 mover-me.
 Houve apenas um clarão amarelo perto da sua perna.
@@ -1421,7 +1397,7 @@ Permaneceu, por um instante, imóvel. Não gritou. Tombou devagarinho como uma
 
 Nem fez sequer barulho, por causa da areia.
 
-XXVII
+XXVII
 E agora, certamente, já se vão seis anos ... jamais contara essa história. Os
 camaradas ficaram contentes de ver-me são e salvo. Eu estava triste, mas dizia: É o
 cansaço...
@@ -1456,5 +1432,3 @@ esperem um pouco bem debaixo da estrela ! Se então um menino vem ao encontro de
 vocês, se ele ri, se tem cabelos de ouro, se não responde quando interrogam, adivinharão
 quem é. Então, por favor, não me deixem tão triste; escrevam-me depressa que ele
 voltou...
-
-
