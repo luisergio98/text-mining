@@ -1,13 +1,14 @@
-import collections
 import random
+import collections
 
 import nltk
 import numpy as np
-import pandas as pd
 import regex as re
+import pandas as pd
+from nltk.corpus import stopwords
 from gensim.models import Word2Vec
 from matplotlib import pyplot as plt
-from nltk.corpus import stopwords
+
 
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -16,8 +17,7 @@ nltk.download('stopwords')
 def prepare_text(s):
     text = s.replace("\n", " ").replace("-", " ").lower()
     text = re.sub('[–?!@#$;—:,*~()‘”“]', '', text)
-    pt_stp_words = stopwords.words('portuguese')
-    word_array = [word for word in text.split() if word not in pt_stp_words]
+    word_array = [word for word in text.split() if word not in stopwords.words('portuguese')]
     return " ".join(word_array)
 
 
